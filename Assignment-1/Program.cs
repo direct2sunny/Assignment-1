@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class VirtualPet
 {
@@ -72,8 +72,11 @@ class VirtualPet
     // Main method
     static void Main()
     {
-        Console.WriteLine
-          ("Please choose a type of pet : \n1.Cat \n2.Dog \n3.Rabbit\n ");
+        string choice;
+        do
+        {
+          Console.WriteLine
+          ("Please choose a type of pet : \n1.Cat \n2.Dog \n3.Rabbit\n4.Exit ");
         Console.Write("User Input: ");
         string petType = Console.ReadLine();
 
@@ -92,8 +95,8 @@ class VirtualPet
                 petType = "Rabbit";
                 break;
 
-            default:
-                Console.WriteLine("Invalid choice!");
+            case "4":
+                    Console.WriteLine("Invalid choice!");
                 Environment.Exit(0);
                 break;
         }
@@ -103,7 +106,6 @@ class VirtualPet
 
         Console.WriteLine($"\nWelcome, {petName}! Let's take good care of him.");
         VirtualPet pet = new VirtualPet(petType, petName);
-
         while (true)
         {
 
@@ -113,11 +115,12 @@ class VirtualPet
             Console.WriteLine($"2. Play with {petName}");
             Console.WriteLine($"3. Let {petName} Rest");
             Console.WriteLine($"4. Check {petName}'s Status");
-            Console.WriteLine("5. Exit");
+            Console.WriteLine("5. Choose another pet");
+            Console.WriteLine("6. Exit completely");
 
             Console.Write("\nUser Input : ");
-            string choice = Console.ReadLine();
-
+             choice = Console.ReadLine();
+            if(choice=="5"){break;}
             switch (choice)
             {
                 case "1":
@@ -132,25 +135,25 @@ class VirtualPet
                     pet.rest();
                     break;
 
+
                 case "4":
                     pet.displayPetStatus();
                     break;
-
-                case "5":
+                case "5": break;
+                case "6":
                     Console.WriteLine($"Thank you for playing with {petName}. Goodbye!");
                     Environment.Exit(0);
-                    break;
-
-                default:
-                    Console.WriteLine
-                      ("\nInvalid choice. Please enter a number between 1 and 5.");
                     break;
             }
 
             // Simulate the passage of time
             pet.timePasses();
         }
-    }
+
+        }
+        while (choice=="5");
+   }
+        
 }
 
 
