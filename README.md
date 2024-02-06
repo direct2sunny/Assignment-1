@@ -1,4 +1,4 @@
-Project Description: Virtual Pet Care SimulationOur project aims to create an interactive and engaging virtual pet care simulation application where users can experience the joys and responsibilities of owning and caring for a virtual pet. This project draws inspiration from traditional virtual pet games and incorporates modern features to provide a realistic and immersive pet care experience.
+Project Description: Virtual Pet Simulation: My project aims to create an interactive and engaging virtual pet care simulation application where users can experience the joys and responsibilities of owning and caring for a virtual pet. This project draws virtual pet games and incorporates modern features to provide a realistic and immersive pet care experience.
 The core features of our virtual pet care simulation include: 
 1. Pet Creation:
 Users can choose from various pet types, including cats, dogs, rabbits, and more, and give their pet a unique name. Upon creation, users are greeted with a personalized welcome message that includes their pet's type and name, establishing an emotional connection between the user and their virtual companion.
