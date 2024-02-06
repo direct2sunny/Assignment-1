@@ -15,9 +15,21 @@ The application's user interface is designed to be simple, straightforward, and 
 Overall, our virtual pet care simulation offers users a fun and educational experience, allowing them to develop a sense of responsibility and empathy while enjoying the companionship of their virtual pet. Whether users seek a casual gaming experience or a meaningful learning opportunity, our application provides a versatile and engaging platform for virtual pet care.
 
 
-Run Time Video Attached
+Runtime Video Attached
 
 https://github.com/direct2sunny/Assignment-1/assets/156108180/8ea9fab7-d1e1-4c4f-aec4-7d13e99626fe
+
+
+Runtime Screenshots
+![1](https://github.com/direct2sunny/Assignment-1/assets/156108180/b8dddae3-cd04-497f-a6b1-10af953bcff9)
+![2](https://github.com/direct2sunny/Assignment-1/assets/156108180/f273709c-0bdf-46d8-9dfa-c8404b63b99b)
+![3](https://github.com/direct2sunny/Assignment-1/assets/156108180/7ce7ce89-d6e4-418f-a25f-b68b249135f0)
+![4](https://github.com/direct2sunny/Assignment-1/assets/156108180/e173f129-bdd9-4569-8d38-3e87f0c23136)
+![5](https://github.com/direct2sunny/Assignment-1/assets/156108180/e31ab319-7410-4e85-963e-4176a1e71318)
+![6](https://github.com/direct2sunny/Assignment-1/assets/156108180/06602b11-26ff-4b8b-862f-4657f86b4988)
+
+
+
 
 
 
