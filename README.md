@@ -17,7 +17,11 @@ Overall, our virtual pet care simulation offers users a fun and educational expe
 
 Runtime Video Attached
 
-https://github.com/direct2sunny/Assignment-1/assets/156108180/8ea9fab7-d1e1-4c4f-aec4-7d13e99626fe
+
+
+https://github.com/direct2sunny/Assignment-1/assets/156108180/1cdb1c69-6ffa-408e-9692-a7219273333d
+
+
 
 
 Runtime Screenshots
