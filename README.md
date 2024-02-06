@@ -17,7 +17,7 @@ The application's user interface is designed to be simple, straightforward, and 
 Overall, our virtual pet care simulation offers users a fun and educational experience, allowing them to develop a sense of responsibility and empathy while enjoying the companionship of their virtual pet. Whether users seek a casual gaming experience or a meaningful learning opportunity, our application provides a versatile and engaging platform for virtual pet care.
 
 
-
+**Extra Feature Added:** Without quitting the Pet care program, we can choose another pet and start caring of another Pet.
 
 **Runtime Video Attached**
 
