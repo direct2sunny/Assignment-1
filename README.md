@@ -1,5 +1,6 @@
-Project Description: Virtual Pet Simulation: My project aims to create an interactive and engaging virtual pet care simulation application where users can experience the joys and responsibilities of owning and caring for a virtual pet. This project draws virtual pet games and incorporates modern features to provide a realistic and immersive pet care experience.
-The core features of our virtual pet care simulation include: 
+**Project Description:** Virtual Pet Simulation: My project aims to create an interactive and engaging virtual pet care simulation application where users can experience the joys and responsibilities of owning and caring for a virtual pet. This project draws virtual pet games and incorporates modern features to provide a realistic and immersive pet care experience.
+
+**The core features of our virtual pet care simulation include:** 
 1. Pet Creation:
 Users can choose from various pet types, including cats, dogs, rabbits, and more, and give their pet a unique name. Upon creation, users are greeted with a personalized welcome message that includes their pet's type and name, establishing an emotional connection between the user and their virtual companion.
 2. Pet Care Actions:
@@ -15,17 +16,21 @@ The application's user interface is designed to be simple, straightforward, and 
 Overall, our virtual pet care simulation offers users a fun and educational experience, allowing them to develop a sense of responsibility and empathy while enjoying the companionship of their virtual pet. Whether users seek a casual gaming experience or a meaningful learning opportunity, our application provides a versatile and engaging platform for virtual pet care.
 
 
-Runtime Video Attached
+**Runtime Video Attached**
 
 
 
 
-Uploading Final Video.mp4…
+
+https://github.com/direct2sunny/Assignment-1/assets/156108180/6d08e747-6933-46ae-afc8-a22838eb1442
 
 
 
 
-Runtime Screenshots
+
+
+**Runtime Screenshots**
+
 ![1](https://github.com/direct2sunny/Assignment-1/assets/156108180/b8dddae3-cd04-497f-a6b1-10af953bcff9)
 ![2](https://github.com/direct2sunny/Assignment-1/assets/156108180/f273709c-0bdf-46d8-9dfa-c8404b63b99b)
 ![3](https://github.com/direct2sunny/Assignment-1/assets/156108180/7ce7ce89-d6e4-418f-a25f-b68b249135f0)
